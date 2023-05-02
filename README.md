@@ -1,0 +1,2 @@
+# Implementing-a-Linear-Associator-Neural-Network-in-Python
+This Python program implements a Linear Associator neural network with methods for initialization, prediction, training using different learning techniques, and mean squared error calculation. Its flexibility in transfer functions and learning techniques makes it a versatile tool for various applications like pattern recognition and prediction.
